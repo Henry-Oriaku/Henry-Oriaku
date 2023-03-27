@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Henry Oriaku
-- 👀 I’m an Android Developer
-- 🌱 I’m currently Learning java
-- 📫 How to reach me horiaku80@gmail.com
+- **Hi, I’m Henry Oriaku
+- **I’m a FullStack Developer
+- *Skills
+- Python -> Django
+- Java -> Android
+- Javascript
+- Html | CSS
+- - PHP
 
 <!---
 Henry-Oriaku/Henry-Oriaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
