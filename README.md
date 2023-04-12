@@ -1,11 +1,9 @@
-- **Hi, I’m Henry Oriaku
-- **I’m a FullStack Developer
-- *Skills
-- Python -> Django
-- Java -> Android
-- Javascript
-- Html | CSS
-- - PHP
+- **Hi, I’m Henry Oriaku**
+- **A FullStack Software Developer**
+- *Specialized In*
+- Web Development
+- Android App Development
+- API Development
 
 <!---
 Henry-Oriaku/Henry-Oriaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
